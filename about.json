@@ -2,7 +2,7 @@
   "name": "Material Design Theme",
   "about_url": "https://meta.discourse.org/t/material-design-stock-theme/47142",
   "license_url": "https://github.com/discourse/material-design-stock-theme/blob/master/LICENSE.txt",
-  "components": ["https://github.com/discourse/discourse-brand-header"],
+  "components": ["https://github.com/discourse/discourse-brand-header", "https://github.com/Chaboi45/Take-a-break-component"],
   "color_schemes": {
     "Material Teal/Amber": {
       "primary": "212121",
